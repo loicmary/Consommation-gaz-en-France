@@ -1,5 +1,4 @@
 streamlit
 pandas
-pydeck
+geopandas
 plotly.express
-json
